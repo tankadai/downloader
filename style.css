@@ -7,7 +7,7 @@
 }
 
 body {
-    background-image: linear-gradient(to top, #fdcbf1 0%, #fdcbf1 1%, #e6dee9 100%);
+    background-image: linear-gradient(to top, #cbd4fd 0%, #cecbfd 1%, #dee2e9 100%);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
@@ -56,6 +56,6 @@ form > button {
     border-radius: 5px;
     border: none;
     outline: none;
-    background-color: #ee44c7;
+    background-color: #6344ee;
     color: rgb(255, 255, 255);
 }
